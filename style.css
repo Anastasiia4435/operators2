@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title {
+    color: #ee9a40;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.cat {
+    display: block;
+    margin: auto;
+    width: 300px;
+    margin-top: 50px;
+}
